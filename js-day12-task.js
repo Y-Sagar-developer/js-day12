@@ -24,5 +24,5 @@ for (i = 0; i < aos.length; i++) {
 }
 console.log(output);
 
-output
-[ 'mom', 'malayalam', 'racecar', 'dad', 'madam' ]
+// output
+// [ 'mom', 'malayalam', 'racecar', 'dad', 'madam' ]
